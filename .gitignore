@@ -1,0 +1,8 @@
+# This folder is published to the whole internet (GitHub Pages). Only the web pages may be committed here.
+# Private notes, keys, passwords, legal drafts and Word/PDF files belong in C:\Akhtar-Works\Hazir-Private.
+*
+!.gitignore
+!index.html
+!privacy.html
+!data-deletion.html
+!style.css
